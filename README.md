@@ -54,9 +54,6 @@ Once the server is running (it will likely listen on port 8080), open your web b
 
 Home Page: http://localhost:8080/
 
-Hello Page: http://localhost:8080/hello
-
-Form Page: http://localhost:8080/form
 
 You can fill out the form on the /form page and submit it to see the server process the POST request.
 
