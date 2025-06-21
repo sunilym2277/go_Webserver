@@ -25,8 +25,7 @@ Built with Standard Library: Uses only Go's built-in packages, requiring no exte
 .
 ├── go.mod        # Manages the project's dependencies
 ├── main.go       # Contains the core web server logic and route handlers
-├── index.html    # The static home page for the root route (/)
-└── form.html     # The HTML form served at the /form route
+
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
